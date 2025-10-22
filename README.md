@@ -22,4 +22,8 @@ docker exec -it sistema_loja_app dotnet SistemaLoja.dll
 
 ```bash
 docker-compose down
+
 ```
+
+Caio Hideki RM553630
+Erick Molina RM553852
